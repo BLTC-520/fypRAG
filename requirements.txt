@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-chroma
+langchain-ollama
+langchain-community
+unstructured[pdf]
+pillow
+pytest-shutil
